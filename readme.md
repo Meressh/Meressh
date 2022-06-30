@@ -28,6 +28,7 @@
 ![VUEX](https://img.shields.io/badge/Vuex.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![MaterialUI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![TAILWINDCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bulma](https://img.shields.io/badge/Bulma-38B2AC?style=for-the-badge&logo=bulma-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
@@ -115,8 +116,9 @@ Credits: [Marek Smetanka](https://github.com/Meressh)
 
 
 ![Ask](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
+<!--![WebsiteUp](https://img.shields.io/uptimerobot/status/m778918918-3e92c097147760ee39d02d36)-->
 
 ![Hearth](https://ForTheBadge.com/images/badges/built-with-love.svg)
 ![MarkDown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)
 
-Last Edited on: 5/05/2022
+Last Edited on: 30/06/2022
