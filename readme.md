@@ -19,13 +19,15 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![MARKDOWN](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
- 	
+![DSA](https://img.shields.io/badge/Data_structures-000000?style=for-the-badge&logo=structure&logoColor=white)
+ 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Laravel Passport](https://img.shields.io/badge/Laravel%20Passport-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![SVELTE](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
 ![VUE](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![VUEX](https://img.shields.io/badge/Vuex.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![AlpineJS](https://img.shields.io/badge/Alpine.js-35495E?style=for-the-badge&logo=alpine.js&logoColor=4FC08D)
 ![MaterialUI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![TAILWINDCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bulma](https://img.shields.io/badge/Bulma-38B2AC?style=for-the-badge&logo=bulma-css&logoColor=white)
@@ -121,4 +123,4 @@ Credits: [Marek Smetanka](https://github.com/Meressh)
 ![Hearth](https://ForTheBadge.com/images/badges/built-with-love.svg)
 ![MarkDown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)
 
-Last Edited on: 30/06/2022
+Last Edited on: 01/07/2022
