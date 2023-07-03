@@ -94,16 +94,6 @@
 ### 💻 Macbook Retina 2017
 ![Macbook](https://img.shields.io/badge/Apple-MacBook_Retina_2017?style=for-the-badge&logo=apple&logoColor=white)
 
-<>### ⚙️  GitHub Analytics
-
-<> <p align="center">
-<> <a href="https://github.com/Meressh">
- 
- <>[![Meressh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Meressh&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
- 
-<> </a>
-<> </p>
-
 ### 🤝🏻  Connect with Me
 
 <p align="center">
