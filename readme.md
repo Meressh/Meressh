@@ -11,9 +11,9 @@
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠  Tech Stack
------
+
 <h2>🧮 Work devices</h2>
------
+
 ### 🤝🏻  Connect with Me
 
 <p align="center">
