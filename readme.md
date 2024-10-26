@@ -1,11 +1,11 @@
 <!---
 <div style="text-align:center"><img src="https://smetankawebdev.sk/img/5.jpg" align="center" height="400"></div>
 -->
-<h2>👋 Hey there! I'm Marek</h2>
+<h2>👋 I'm Marek</h2>
 
 ### 👨🏻‍💻  About Me
 
-👨‍🎓 I am currently a student at the FIIT STU in Bratislava. <br>
+👨‍🎓 Bc. from FIIT STU <br>
 💽 I am working on my own as freelancer.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
