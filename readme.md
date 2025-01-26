@@ -48,8 +48,9 @@ Dual boot
 ### 🤝🏻  Connect with Me
 
 <p align="center">
-<a href="https://www.smeetty.sk"><img src="https://img.shields.io/badge/-smeetty.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.smeetty.sk"><img src="https://img.shields.io/badge/-smeetty.sk-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="[https://www.linkedin.com/in/marek-smetanka-b52137179](https://www.linkedin.com/in/marek-smetanka-b52137179)"><img src="https://img.shields.io/badge/-Marek%20Smetanka-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:marek.smetanka@scavork.sk"></a>
 <!--<a href="https://www.facebook.com/marek.wscb"><img src="https://img.shields.io/badge/-@Marek%20Smetanka-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>-->
 </p>
 
