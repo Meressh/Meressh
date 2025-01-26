@@ -56,7 +56,7 @@ Dual boot
 
 -----
 
-Credits: [Marek Smetanka](https://github.com/Meressh)
+Credits: [Marek Smetanka](https://github.com/Smeetty)
 
 
 ![Ask](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)
